@@ -1,2 +1,2 @@
 #!/bin/bash
-compilation phase
+Programing multilingual shit
