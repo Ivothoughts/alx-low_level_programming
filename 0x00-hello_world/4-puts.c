@@ -1,9 +1,12 @@
 #include <stdio.h>
-
-int puts(const char *str);
+/**
+ *	main-main	block
+ *	Return: 0
+ */
+int	main(void)
 {
-	/*using the puts function*/
-	char Mystr[] = "Programming is like building a multilingual puzzle,\n";
+	/*using	the	puts	function*/
+	char	Mystr[] = "Programming	is	like	building	a	multilingual	puzzle,\n";
 
 	puts(Mystr);
 
