@@ -7,14 +7,10 @@
 
 
 /**
- *
- * main - Prints if number is positive, zero or negative
- *
- *
- *
- * Return: Always (Success)
- *
- */
+*main - Entry point
+*Description: using the main function
+*Return: Always (0)
+*/
 
 int main(void)
 
