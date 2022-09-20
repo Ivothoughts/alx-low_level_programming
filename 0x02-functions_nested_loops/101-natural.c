@@ -11,17 +11,14 @@
 
 
 int main(void)
-
 {
 
 	int start_num, end_num, total;
 
 
-
 	end_num = 1024;
 
 	total = 0;
-
 
 
 	for (start_num = 0; start_num < end_num; start_num++)
@@ -49,7 +46,6 @@ int main(void)
 	printf("%d", total);
 
 	printf("\n");
-
 
 
 	return (0);
